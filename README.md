@@ -41,7 +41,7 @@
 ### 🌟 Featured Projects
 - 🤖 [PassBin App](https://haroon-90.github.io/Passbin_local/) – Password manager
 - 🤖 [QuickQuiz App](https://haroon-90.github.io/QuickQuiz/) – Instant Quiz generator with integration of AI API
-- 🧩 [OneNest App](https://github.com/haroon-90/onenest) – Multi-feature app with games, tools, and AI integration  
+- 🧩 [OneNest App](https://haroon-90.github.io/OneNest/) – Multi-feature app with games, tools, and AI integration  
 - 💼 [Portfolio Website](https://haroon-90.github.io/portfolio-website/) – My personal responsive web portfolio  
 
 ---
