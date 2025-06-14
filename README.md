@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&width=500&lines=BSCS+Student+%26+Full+Stack+Developer;Loves+JavaScript+and+React;Building+cool+projects+everyday!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0202ff&center=true&width=500&lines=BSCS+Student+%26+Full+Stack+Developer;Loves+JavaScript+and+React;Building+cool+projects+everyday!"/>
 </p>
 
 ---
