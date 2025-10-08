@@ -56,9 +56,9 @@ I'm a passionate full stack developer based in Pakistan. Currently pursuing my B
 
 | Project       | Description                                          | Live Demo |
 |---------------|------------------------------------------------------|------------|
-| **OneNest**   | Multi-tool app with games, utilities, and AI tools  | [Launch](https://haroon-90.github.io/OneNest/) |
-| **QuickQuiz** | AI quiz generator using public APIs                 | [Launch](https://haroon-90.github.io/QuickQuiz/) |
-| **PassBin**   | Secure local password storage app                   | [Launch](https://haroon-90.github.io/Passbin_local/) |
+| **MiniXpress**| Multi-tool app with games, utilities, and AI tools  | [Visit](https://haroon-90.github.io/MiniXpress/) |
+| **QuickQuiz** | AI quiz generator using public APIs                 | [Visit](https://haroon-90.github.io/QuickQuiz/) |
+| **PassBin**   | Secure local password storage app                   | [Visit](https://haroon-90.github.io/Passbin_local/) |
 | **Portfolio** | Personal portfolio website                          | [Visit](https://haroon-90.github.io/portfolio-website/) |
 
 ---
