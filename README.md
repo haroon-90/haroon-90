@@ -2,7 +2,7 @@
 
 <h1 align="center">Muhammad Haroon Nawaz</h1>
 <p align="center">
-  Full Stack Web Developer • BSCS Student • JavaScript Focused
+  Full Stack Web Developer • Tech Student • JavaScript Focused
 </p>
 
 <p align="center">
@@ -59,6 +59,7 @@ What I care about:
 
 - JavaScript logic building and clean patterns
 - Full stack MERN applications
+- Working on Next js
 - Modern UI systems with Tailwind CSS
 - API integration using async and await
 - AI powered features using OpenAI and Gemini APIs
